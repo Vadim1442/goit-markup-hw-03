@@ -240,6 +240,7 @@ margin-bottom: 72px;
 .team-list {
     display: flex;
     gap: 24px;
+    border-radius: 0px 0px 4px 4px; 
     
 }
 
@@ -254,6 +255,7 @@ margin-bottom: 72px;
     border-radius: 0px 0px 4px 4px;
 }
 
+
 .team-subtitle {
     color:  #2E2F42;
 text-align: center;
@@ -261,7 +263,7 @@ font-size: 20px;
 font-weight: 500;
 line-height: 1.2; 
 letter-spacing: 0.02em;
-;
+
 }
 
 .team-text {
@@ -290,6 +292,7 @@ letter-spacing :  0.02em;
     text-align: center;
     padding-top: 120;
     padding-bottom: 72px;
+    margin-bottom: 72px;
 }
 
 .portfolio-list {
