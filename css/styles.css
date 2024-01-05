@@ -245,7 +245,7 @@ padding-bottom: 120px;
 .team-item {
    background:  #FFF;
    border-radius: 0px 0px 4px 4px; 
-   padding: 32px 0
+   padding: 32px 0;
    width: calc((100%v- 72px) / 4);
 }
 
@@ -313,8 +313,9 @@ letter-spacing :  0.02em;
 }
 
 .portfolio-img {
-    margin: 0 auto;
+    
      display: block;
+     margin: 0 auto;
     max-width: 100%;
     height: auto;
 }
@@ -351,18 +352,27 @@ text-align: left;
 }
 
 .logo {
+    display: flex;
+    width: 44px;
+    height: 21px;
+    flex-direction: column;
+    justify-content: center;
+    
     
 }
 
 .footer-logo-part {
+
     color: #F4F4FD;
     display: inline-block;
-    margin-bottom: 16px;
+    
+    
     
 }
 .footer-container {
     background: #2E2F42;
-    padding: 100px 1020px 100px 156px;
+    
+    padding: 100px 0;
 
 }
 
