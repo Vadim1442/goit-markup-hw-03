@@ -190,6 +190,7 @@ margin-right:auto;
     gap: 24px;
     padding-right: 156px;
     padding-left: 156px;
+    
 }
 
 .features-item {
@@ -357,6 +358,8 @@ text-align: left;
     height: 21px;
     flex-direction: column;
     justify-content: center;
+    margin-bottom: 16px;
+    display: inline-block;
     
     
 }
@@ -364,14 +367,11 @@ text-align: left;
 .footer-logo-part {
 
     color: #F4F4FD;
-    display: inline-block;
-    
-    
-    
+   
 }
+
 .footer-container {
     background: #2E2F42;
-    
     padding: 100px 0;
 
 }
