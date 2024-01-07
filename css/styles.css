@@ -190,11 +190,11 @@ margin-right:auto;
     gap: 24px;
     padding-right: 156px;
     padding-left: 156px;
-    flex-basis: calc((100% - 3 * 24px) / 4);
+    
 }
 
 .features-item {
-    
+    width: calc((100% - 3 * 24px) / 4); 
 }
 
 .features-subtitle {
