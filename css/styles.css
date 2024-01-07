@@ -30,7 +30,7 @@ button {
 }
 
 section {
-    padding-top:not(first) 120px;
+    padding-top: 120px;
     padding-bottom: 120px;
 }
 
@@ -217,7 +217,7 @@ letter-spacing: 0.02em;
 
 /* ------------TEAM----------- */
 .team {
-    padding-top: 120px; 
+ padding-top: 120px; 
 padding-bottom: 120px;  
 }
 
@@ -247,7 +247,7 @@ padding-bottom: 120px;
    background:  #FFF;
    border-radius: 0px 0px 4px 4px; 
    padding: 32px 0;
-   width: calc((100%- 72px) / 4);
+   width: calc((100% - 72px) / 4);
 }
 
 .team-img {
@@ -292,10 +292,10 @@ letter-spacing :  0.02em;
     
     font-weight: 700;
     line-height: 1.11; 
-    letter-spacing: 0.02;
+    letter-spacing: 0.02em;
     text-transform: capitalize;
     text-align: center;
-    padding-top: 120;
+    padding-top: 120px;
     padding-bottom: 72px;
     margin-bottom: 72px;
 }
